@@ -6,9 +6,9 @@ permalink: /technical_guide/system_requirement/
 title: System Requirement
 ---
 
-![image](/assets/images/logo.jpg){: style="width: 650px"}
+![image](/assets/images/logo.jpg){: style="width: 250px"}
 
-<span style="color:#003C68; font-size: 48px">Acumen Technical Guide</span>
+<span style="color:#003C68; font-size: 24px">Acumen Technical Guide</span>
 
 ---
 

@@ -15,8 +15,6 @@ title: User Guides
 ## <span style="color:#003C68">Table of Content</span>
 
 <br>
-<br>
-<br>
 
 <span style="color:#003C68">1. Getting Started</span>     
 
