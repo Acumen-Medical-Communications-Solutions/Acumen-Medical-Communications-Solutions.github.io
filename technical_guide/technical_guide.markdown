@@ -12,4 +12,11 @@ title: Technical Guide
 
 ---
 
-## <span style="color:#003C68">Technical Guide</span>
+## <span style="color:#003C68">Table of Contents</span>
+
+1.
+**System Requirement**
+
+2.
+**FAQ**<br>
+Frequently Asked questions along with solutions for each of them.
