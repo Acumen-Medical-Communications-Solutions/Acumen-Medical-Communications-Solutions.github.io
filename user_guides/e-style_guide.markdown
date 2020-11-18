@@ -6,9 +6,9 @@ permalink: /user_guides/e-style_guide/
 title: E-Style Guide
 ---
 
-![image](/assets/images/logo.jpg){: style="width: 325px"}
+![image](/assets/images/logo.jpg){: style="width: 250px"}
 
-<span style="color:#003C68; font-size: 48px">Acumen User Guides</span>
+<span style="color:#003C68; font-size: 28px">Acumen User Guides</span>
 
 ---
 

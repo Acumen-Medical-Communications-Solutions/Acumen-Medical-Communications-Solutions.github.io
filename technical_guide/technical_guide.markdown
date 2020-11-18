@@ -12,7 +12,7 @@ title: Technical Guide
 
 ---
 
-## <span style="color:#003C68">Table of Content</span>
+## <span style="color:#003C68">Table of Contents</span>
 
 <br>
 

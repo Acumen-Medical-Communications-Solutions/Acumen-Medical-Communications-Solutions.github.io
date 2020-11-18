@@ -6,13 +6,13 @@ permalink: /user_guides/
 title: User Guides
 ---
 
-![image](/assets/images/logo.jpg){: style="width: 650px"}
+![image](/assets/images/logo.jpg){: style="width: 250px"}
 
-<span style="color:#003C68; font-size: 48px">Acumen User Guides</span>
+<span style="color:#003C68; font-size: 28px">Acumen User Guides</span>
 
 ---
 
-## <span style="color:#003C68">Table of Content</span>
+## <span style="color:#003C68">Table of Contents</span>
 
 <br>
 
