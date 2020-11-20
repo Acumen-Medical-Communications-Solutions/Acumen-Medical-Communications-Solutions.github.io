@@ -2,13 +2,13 @@
 has_children: true
 layout: page
 nav_order: 1
-permalink: /technical_guide/
-title: Technical Guide
+permalink: /technical_guides/
+title: Technical Guides
 ---
 
 ![image](/assets/images/logo.jpg){: style="width: 250px"}
 
-<span style="color:#003C68; font-size: 24px">Acumen Technical Guide</span>
+<span style="color:#003C68; font-size: 24px">Acumen Technical Guides</span>
 
 ---
 

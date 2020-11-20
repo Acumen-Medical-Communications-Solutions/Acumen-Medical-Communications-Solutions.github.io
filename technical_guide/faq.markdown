@@ -1,14 +1,14 @@
 ---
-parent: Technical Guide
+parent: Technical Guides
 layout: page
 nav_order: 2
-permalink: /technical_guide/faq/
+permalink: /technical_guides/faq/
 title: FAQ
 ---
 
 ![image](/assets/images/logo.jpg){: style="width: 250px"}
 
-<span style="color:#003C68; font-size: 24px">Acumen Technical Guide</span>
+<span style="color:#003C68; font-size: 24px">Acumen Technical Guides</span>
 
 ---
 

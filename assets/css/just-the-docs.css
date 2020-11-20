@@ -494,7 +494,7 @@ hr {
 @media (min-width: 50rem) {
   .main-content {
     position: relative;
-    max-width: 950px;
+    max-width: 1200px;
     margin-left: 248px; } }
 @media (min-width: 66.5rem) {
   .main-content {
@@ -576,6 +576,10 @@ hr {
       height: 60px;
       max-height: 60px;
       border-bottom: 1px solid #eeebee; } }
+
+.site-logo {
+  
+}
 
 .site-title {
   padding-right: 1rem;

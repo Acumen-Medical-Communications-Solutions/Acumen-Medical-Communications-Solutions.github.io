@@ -1,18 +1,18 @@
 ---
-parent: Technical Guide
+parent: Technical Guides
 layout: page
 nav_order: 1
-permalink: /technical_guide/system_requirement/
-title: System Requirement
+permalink: /technical_guides/system_requirements/
+title: System Requirements
 ---
 
 ![image](/assets/images/logo.jpg){: style="width: 250px"}
 
-<span style="color:#003C68; font-size: 24px">Acumen Technical Guide</span>
+<span style="color:#003C68; font-size: 24px">Acumen Technical Guides</span>
 
 ---
 
-## <span style="color:#003C68">System Requirement</span>
+## <span style="color:#003C68">System Requirements</span>
 
 <div class="recommended-specs" markdown="1">
 
