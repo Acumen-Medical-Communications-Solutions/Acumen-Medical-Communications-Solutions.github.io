@@ -26,6 +26,10 @@ search_exclude: true
 
 >>Frequently Asked Questions are presented here with their respective solutions.
 
+><span style="color:#003C68">1.3. Contact Info</span> 
+
+>>Where you can find information on where you contact us.
+
 <span style="color:#003C68">2. User Guides</span> 
 
 ><span style="color:#003C68">2.1. Getting Started</span>     

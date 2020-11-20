@@ -23,3 +23,7 @@ title: Technical Guides
 <span style="color:#003C68">2. FAQ</span> 
 
 >Frequently Asked Questions are presented here with their respective solutions.
+
+<span style="color:#003C68">3. Contact Info</span> 
+
+>Where you can find information on where you contact us.
