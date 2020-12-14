@@ -2,8 +2,9 @@
 parent: User Guides
 layout: page
 nav_order: 3
-permalink: /user_guides/qc_guide/
-title: QC Guide
+permalink: /user_guides/qc_module_guide/
+title: QC Module Guide
+has_children: true
 ---
 
 ![image](/assets/images/logo.jpg){: style="width: 250px"}
@@ -12,7 +13,7 @@ title: QC Guide
 
 ---
 
-## <span style="color:#003C68">QC Guide</span>
+## <span style="color:#003C68">QC Module Guide</span>
 
 Once the Acumen Smart Document Solution software is installed and you re-open Microsoft Word, the **“Acumen”** tab will appear in the top ribbon of the Word application.
 
@@ -28,7 +29,7 @@ Use of the features of the “QC” tab is simple. The default setting for this 
 ![image](/assets/images/ugqc02.jpg){: style="border:1px solid Silver"}<br>
 <br/>
 
-This will initiate a prompt to select from a drop-down list of available QC checklists.  Select the one most applicable to your project and click **OK**. For a list of QC checklists and what they contain, you can use the following link [here](https://app.box.com/s/1b70wwlyw1qdbtbc5jgm3ndslbs8u61h) to go a interactive list that can help you decide which QC Checklist to use.
+This will initiate a prompt to select from a drop-down list of available QC checklists.  Select the one most applicable to your project and click **OK**.
 
 ![image](/assets/images/ugqc03.jpg){: style="border:1px solid Silver"}<br>
 <br/>
