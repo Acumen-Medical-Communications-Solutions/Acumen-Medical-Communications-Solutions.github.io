@@ -28,7 +28,7 @@ Use of the features of the “QC” tab is simple. The default setting for this 
 ![image](/assets/images/ugqc02.jpg){: style="border:1px solid Silver"}<br>
 <br/>
 
-This will initiate a prompt to select from a drop-down list of available QC checklists.  Select the one most applicable to your project and click **OK**.
+This will initiate a prompt to select from a drop-down list of available QC checklists.  Select the one most applicable to your project and click **OK**. For a list of QC checklists and what they contain, you can use the following link [here](https://app.box.com/s/1b70wwlyw1qdbtbc5jgm3ndslbs8u61h) to go a interactive list that can help you decide which QC Checklist to use.
 
 ![image](/assets/images/ugqc03.jpg){: style="border:1px solid Silver"}<br>
 <br/>
@@ -130,3 +130,4 @@ At each step of process, the document will be saved to the specified location an
 Once installed, the “QC” tab will always appear in the Microsoft Word ribbon. 
 You will not need to “reattach” the plug-in or re-enter your activation credentials.  
 For documents that you choose to use the QC Module features on, you just need to initiate QC and select a checklist and you are ready to go.
+
