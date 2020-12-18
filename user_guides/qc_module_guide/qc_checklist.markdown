@@ -4,7 +4,7 @@ parent: QC Module Guide
 layout: page
 nav_order: 1
 permalink: /user_guides/qc_module_guide/qc_checklist/
-title: QC Checklist
+title: QC Checklists
 ---
 
 ![image](/assets/images/logo.jpg){: style="width: 250px"}
