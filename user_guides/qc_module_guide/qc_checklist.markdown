@@ -13,6 +13,6 @@ title: QC Checklist
 
 ---
 
-## <span style="color:#003C68">QC Checklist</span>
+## <span style="color:#003C68">QC Checklists</span>
 
 For a list of QC checklists and what they contain, you can use the following link **[here](https://www.acumenmedcom.com/qc-checklists)** to go a interactive list that can help you decide which QC Checklist to use.
