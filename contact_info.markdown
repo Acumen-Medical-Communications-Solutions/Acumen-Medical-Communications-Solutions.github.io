@@ -1,8 +1,7 @@
 ---
-parent: Technical Guides
 layout: page
 nav_order: 3
-permalink: /technical_guides/contact_info/
+permalink: /contact_info/
 title: Contact Info
 ---
 
