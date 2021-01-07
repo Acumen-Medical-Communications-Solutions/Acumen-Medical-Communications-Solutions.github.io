@@ -35,3 +35,7 @@ title: User Guides
 <span style="color:#003C68">5. Templates Guide</span> 
 
 >Discusses where to find Templates and how to use them.
+
+<span style="color:#003C68">6. Summary of Changes Guide</span> 
+
+>Discusses how to setup and use our Summary of Changes Tool.

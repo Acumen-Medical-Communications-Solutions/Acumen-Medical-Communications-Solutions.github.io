@@ -48,6 +48,10 @@ search_exclude: true
 
 >>Discusses where to find Templates and how to use them.
 
+><span style="color:#003C68">2.6. Summary of Changes Guide</span> 
+
+>>Discusses how to setup and use our Summary of Changes Tool.
+
 <span style="color:#003C68">3. Contact Info</span> 
 
 >Where you can find information on where you contact us.
