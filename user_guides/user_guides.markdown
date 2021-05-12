@@ -39,3 +39,7 @@ title: User Guides
 <span style="color:#003C68">6. [Summary of Changes Guide](/user_guides/summary_of_changes/)</span> 
 
 >Discusses how to setup and use our Summary of Changes Tool.
+
+<span style="color:#003C68">7. [Lifecycle Guide](/user_guides/lifecycle_guide/)</span> 
+
+>Discusses how to setup and use our Lifecycle Tool to it's best effect!
