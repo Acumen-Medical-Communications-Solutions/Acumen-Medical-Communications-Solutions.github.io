@@ -2,8 +2,8 @@
 parent: User Guides
 layout: page
 nav_order: 1
-permalink: /user_guides/getting_started/
-title: Getting Started
+permalink: /user_guides/install_guide/
+title: Install Guide
 ---
 
 ![image](/assets/images/logo.jpg){: style="width: 250px"}
@@ -12,7 +12,7 @@ title: Getting Started
 
 ---
 
-## <span style="color:#003C68">Getting Started</span>
+## <span style="color:#003C68">Install Guide</span>
 
 To install and manage your Acumen Smart Document Solution software you will need to access our web user interface at the following link in the Google Chrome browser on a PC running the Windows operating system:
 [https://prod-acumen.azurewebsites.net/Account/Login](https://prod-acumen.azurewebsites.net/Account/Login)

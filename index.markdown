@@ -16,42 +16,42 @@ search_exclude: true
 ## <span style="color:#003C68">Table of Contents</span>
 
 <br>
-<span style="color:#003C68">1. Technical Guides</span>
+<span style="color:#003C68">1. [Technical Guides](/technical_guides/)</span>
 
-><span style="color:#003C68">1.1. System Requirements</span>     
+><span style="color:#003C68">1.1. [System Requirements](/technical_guides/system_requirements/)</span>     
 
 >>Shows the minimum and recommended System Specs to run the Acumen Plugin.
 
-><span style="color:#003C68">1.2. FAQ</span> 
+><span style="color:#003C68">1.2. [FAQ](/technical_guides/faq/)</span> 
 
 >>Frequently Asked Questions are presented here with their respective solutions.
 
-<span style="color:#003C68">2. User Guides</span> 
+<span style="color:#003C68">2. [User Guides](/user_guides/)</span> 
 
-><span style="color:#003C68">2.1. Getting Started</span>     
+><span style="color:#003C68">1. [Install Guide](/user_guides/install_guide/)</span>     
 
 >>Discusses how to navigate the WebUI and how to install our software.
 
-><span style="color:#003C68">2.2. E-Style Guide</span> 
+><span style="color:#003C68">2. [E-Style Guide](/user_guides/e-style_guide/)</span> 
 
 >>Discusses how to both activate and navigate the E-Style Tab in Microsoft Word.
 
-><span style="color:#003C68">2.3. QC Guide</span> 
+><span style="color:#003C68">3. [QC Guide](/user_guides/qc_module_guide/)</span> 
 
 >>Discusses how to use our QC Tool in Microsoft Word.
 
-><span style="color:#003C68">2.4. Stylus Guide</span> 
+><span style="color:#003C68">4. [Stylus Guide](/user_guides/stylus_guide/)</span> 
 
 >>Discusses how to enable and use the Stylus Tool.
 
-><span style="color:#003C68">2.5. Templates Guide</span> 
+><span style="color:#003C68">5. [Templates Guide](/user_guides/templates_guide/)</span> 
 
 >>Discusses where to find Templates and how to use them.
 
-><span style="color:#003C68">2.6. Summary of Changes Guide</span> 
+><span style="color:#003C68">6. [Summary of Changes Guide](/user_guides/summary_of_changes/)</span> 
 
 >>Discusses how to setup and use our Summary of Changes Tool.
 
-<span style="color:#003C68">3. Contact Info</span> 
+<span style="color:#003C68">3. [Contact Info](/contact_info/)</span> 
 
 >Where you can find information on where you contact us.

@@ -16,10 +16,10 @@ title: Technical Guides
 
 <br>
 
-<span style="color:#003C68">1. System Requirements</span>     
+<span style="color:#003C68">1. [System Requirements](/technical_guides/system_requirements/)</span>     
 
 >Shows the minimum and recommended System Specs to run the Acumen Plugin.
 
-<span style="color:#003C68">2. FAQ</span> 
+<span style="color:#003C68">2. [FAQ](/technical_guides/faq/)</span> 
 
 >Frequently Asked Questions are presented here with their respective solutions.
