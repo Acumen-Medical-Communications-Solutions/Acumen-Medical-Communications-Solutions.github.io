@@ -21,6 +21,3 @@ Once the appropriate credentials are entered, new tabs will be visible in the ri
 ![image](/assets/images/ugeg01.jpg){: style="border:1px solid Silver"}<br>
 <br/>
 
-### <span style="color:#003C68; text-decoration:underline">Setup</span> 
-
-**Place Holder**
